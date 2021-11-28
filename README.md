@@ -2,7 +2,7 @@
 script for tech orbit management
 
 ##Requirements & Installation
-1. Unix Kernel (for copy action you should install termux)
+1. Unix Kernel (for copy action you should install termux & termux:api)
 2. git & python's package
 ```
 apt install git python -y
